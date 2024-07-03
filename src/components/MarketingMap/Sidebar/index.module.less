@@ -1,0 +1,26 @@
+@box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 1px -1px, rgba(0, 0, 0, 0.14) 0px 1px 1px 0px,
+  rgba(0, 0, 0, 0.12) 0px 1px 3px 0px;
+
+.anchor {
+  position: absolute;
+  top: 45px;
+  right: 460px;
+  z-index: 3;
+  transition: transform 0.5s;
+}
+.sidebar {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 2;
+  box-sizing: border-box;
+  overflow: hidden;
+  box-shadow: @box-shadow;
+  transition: width 0.5s;
+  .content { 
+    position: relative;
+    background-color: white;
+    margin-bottom: 12;
+    min-width: 460px;
+  }
+}

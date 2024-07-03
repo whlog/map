@@ -1,0 +1,895 @@
+{
+  "options": [
+    {
+      "code": "a001",
+      "name": "华中",
+      "children": [
+        {
+          "code": "b001",
+          "name": "湖北",
+          "children": [
+            {
+              "code": "c001",
+              "name": "武汉",
+              "children": [
+                {
+                  "code": "d001",
+                  "name": "武汉1号"
+                },
+                {
+                  "code": "d002",
+                  "name": "武汉2号"
+                }
+              ]
+            },
+            {
+              "code": "c002",
+              "name": "宜昌",
+              "children": [
+                {
+                  "code": "d003",
+                  "name": "宜昌1号"
+                },
+                {
+                  "code": "d004",
+                  "name": "宜昌2号"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "b002",
+          "name": "湖南",
+          "children": [
+            {
+              "code": "c003",
+              "name": "长沙",
+              "children": [
+                {
+                  "code": "d005",
+                  "name": "长沙1号"
+                },
+                {
+                  "code": "d006",
+                  "name": "长沙2号"
+                }
+              ]
+            },
+            {
+              "code": "c004",
+              "name": "岳阳",
+              "children": [
+                {
+                  "code": "d007",
+                  "name": "岳阳1号"
+                },
+                {
+                  "code": "d008",
+                  "name": "岳阳2号"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heatmap": [
+    {
+      "longitude": 114.31575538089166,
+      "latitude": 30.59878814797871,
+      "vehicleCount": 31,
+      "type": 0
+    },
+    {
+      "longitude": 114.30655818247668,
+      "latitude": 30.571378820511363,
+      "vehicleCount": 102
+    },
+    {
+      "longitude": 114.3173323476174,
+      "latitude": 30.585978649266316,
+      "vehicleCount": 65,
+      "type": 0
+    },
+    {
+      "longitude": 114.31809411771944,
+      "latitude": 30.567518750346387,
+      "vehicleCount": 93,
+      "type": 0
+    },
+    {
+      "longitude": 114.33097574821998,
+      "latitude": 30.591725258078917,
+      "vehicleCount": 28,
+      "type": 2
+    },
+    {
+      "longitude": 114.30959694199879,
+      "latitude": 30.59545095249957,
+      "vehicleCount": 61,
+      "type": 2
+    },
+    {
+      "longitude": 114.3013765686722,
+      "latitude": 30.61154346515156,
+      "vehicleCount": 63,
+      "type": 2
+    },
+    {
+      "longitude": 114.33107571282295,
+      "latitude": 30.611080035325077,
+      "vehicleCount": 102,
+      "type": 2
+    },
+    {
+      "longitude": 114.3088393510759,
+      "latitude": 30.56365765546367,
+      "vehicleCount": 41,
+      "type": 1
+    },
+    {
+      "longitude": 114.30760603600518,
+      "latitude": 30.593171063090423,
+      "vehicleCount": 93,
+      "type": 1
+    },
+    {
+      "longitude": 114.31225982204391,
+      "latitude": 30.565586354003344,
+      "vehicleCount": 57,
+      "type": 1
+    },
+    {
+      "longitude": 114.31961141087265,
+      "latitude": 30.59770580790308,
+      "vehicleCount": 59,
+      "type": 2
+    },
+    {
+      "longitude": 114.32886866406466,
+      "latitude": 30.60641141472818,
+      "vehicleCount": 81,
+      "type": 2
+    },
+    {
+      "longitude": 114.3414123679279,
+      "latitude": 30.58761576741819,
+      "vehicleCount": 21,
+      "type": 1
+    },
+    {
+      "longitude": 114.30103511336297,
+      "latitude": 30.576475656090363,
+      "vehicleCount": 30,
+      "type": 0
+    },
+    {
+      "longitude": 114.31711047757513,
+      "latitude": 30.58725878337425,
+      "vehicleCount": 90,
+      "type": 2
+    },
+    {
+      "longitude": 114.30563269374167,
+      "latitude": 30.602120559827974,
+      "vehicleCount": 57,
+      "type": 1
+    },
+    {
+      "longitude": 114.29919882023125,
+      "latitude": 30.596160278060697,
+      "vehicleCount": 103,
+      "type": 1
+    },
+    {
+      "longitude": 114.30554149832938,
+      "latitude": 30.562858852637426,
+      "vehicleCount": 28,
+      "type": 0
+    },
+    {
+      "longitude": 114.33554383874564,
+      "latitude": 30.609756712859568,
+      "vehicleCount": 87,
+      "type": 1
+    },
+    {
+      "longitude": 114.29085364724554,
+      "latitude": 30.568597681027164,
+      "vehicleCount": 22,
+      "type": 2
+    },
+    {
+      "longitude": 114.29368326900473,
+      "latitude": 30.566042357416393,
+      "vehicleCount": 37,
+      "type": 1
+    },
+    {
+      "longitude": 114.29498925121851,
+      "latitude": 30.56833323182054,
+      "vehicleCount": 22,
+      "type": 0
+    },
+    {
+      "longitude": 114.29266757813339,
+      "latitude": 30.571264664095462,
+      "vehicleCount": 59,
+      "type": 1
+    },
+    {
+      "longitude": 114.28754281905975,
+      "latitude": 30.56413658149783,
+      "vehicleCount": 86,
+      "type": 1
+    },
+    {
+      "longitude": 114.29162640079431,
+      "latitude": 30.566362969092875,
+      "vehicleCount": 71,
+      "type": 0
+    },
+    {
+      "longitude": 114.2916760563135,
+      "latitude": 30.568530120027646,
+      "vehicleCount": 70,
+      "type": 2
+    },
+    {
+      "longitude": 114.29256599547172,
+      "latitude": 30.56733525497606,
+      "vehicleCount": 97,
+      "type": 2
+    },
+    {
+      "longitude": 114.29503401770138,
+      "latitude": 30.564598795372724,
+      "vehicleCount": 85,
+      "type": 2
+    },
+    {
+      "longitude": 114.28762787487805,
+      "latitude": 30.56994684741915,
+      "vehicleCount": 75,
+      "type": 1
+    },
+    {
+      "longitude": 114.2859227191762,
+      "latitude": 30.566625321687933,
+      "vehicleCount": 11,
+      "type": 2
+    },
+    {
+      "longitude": 114.28598734373917,
+      "latitude": 30.56956220239226,
+      "vehicleCount": 75,
+      "type": 0
+    },
+    {
+      "longitude": 114.29359227793448,
+      "latitude": 30.565934090003523,
+      "vehicleCount": 102,
+      "type": 1
+    },
+    {
+      "longitude": 114.2902149622944,
+      "latitude": 30.56496978607095,
+      "vehicleCount": 18,
+      "type": 2
+    },
+    {
+      "longitude": 114.28904483504304,
+      "latitude": 30.566598638618984,
+      "vehicleCount": 44,
+      "type": 0
+    },
+    {
+      "longitude": 114.29307205567211,
+      "latitude": 30.56442908982958,
+      "vehicleCount": 99,
+      "type": 0
+    },
+    {
+      "longitude": 114.29231134358312,
+      "latitude": 30.56934609765864,
+      "vehicleCount": 37,
+      "type": 2
+    },
+    {
+      "longitude": 114.28928170722655,
+      "latitude": 30.56539312153234,
+      "vehicleCount": 52,
+      "type": 1
+    },
+    {
+      "longitude": 114.29169393439437,
+      "latitude": 30.57005615875312,
+      "vehicleCount": 78,
+      "type": 2
+    },
+    {
+      "longitude": 114.29231044090695,
+      "latitude": 30.56248274854121,
+      "vehicleCount": 39,
+      "type": 1
+    },
+    {
+      "longitude": 114.29934185564039,
+      "latitude": 30.55228597478463,
+      "vehicleCount": 102,
+      "type": 0
+    },
+    {
+      "longitude": 114.29926136464765,
+      "latitude": 30.557271376551476,
+      "vehicleCount": 97,
+      "type": 0
+    },
+    {
+      "longitude": 114.30120626879265,
+      "latitude": 30.56090926770328,
+      "vehicleCount": 14,
+      "type": 1
+    },
+    {
+      "longitude": 114.29646641199471,
+      "latitude": 30.552439147920246,
+      "vehicleCount": 51,
+      "type": 1
+    },
+    {
+      "longitude": 114.29648472435916,
+      "latitude": 30.55201992867514,
+      "vehicleCount": 72,
+      "type": 1
+    },
+    {
+      "longitude": 114.30053242521275,
+      "latitude": 30.555190026803782,
+      "vehicleCount": 50,
+      "type": 1
+    },
+    {
+      "longitude": 114.30333129467525,
+      "latitude": 30.558802068951024,
+      "vehicleCount": 83,
+      "type": 2
+    },
+    {
+      "longitude": 114.30143908248311,
+      "latitude": 30.55892772601325,
+      "vehicleCount": 55,
+      "type": 2
+    },
+    {
+      "longitude": 114.30327686964579,
+      "latitude": 30.554020880541454,
+      "vehicleCount": 80,
+      "type": 0
+    },
+    {
+      "longitude": 114.30388967292406,
+      "latitude": 30.55330954766102,
+      "vehicleCount": 105,
+      "type": 0
+    },
+    {
+      "longitude": 114.30058048707735,
+      "latitude": 30.55605976272721,
+      "vehicleCount": 45,
+      "type": 0
+    },
+    {
+      "longitude": 114.2999696339771,
+      "latitude": 30.561544800157034,
+      "vehicleCount": 102,
+      "type": 0
+    },
+    {
+      "longitude": 114.30542104192877,
+      "latitude": 30.559218152969933,
+      "vehicleCount": 90,
+      "type": 0
+    },
+    {
+      "longitude": 114.29825422323496,
+      "latitude": 30.5527708650781,
+      "vehicleCount": 76,
+      "type": 0
+    },
+    {
+      "longitude": 114.30325953130905,
+      "latitude": 30.56050885921958,
+      "vehicleCount": 36,
+      "type": 0
+    },
+    {
+      "longitude": 114.3048297538834,
+      "latitude": 30.55784153190178,
+      "vehicleCount": 81,
+      "type": 1
+    },
+    {
+      "longitude": 114.30431061569597,
+      "latitude": 30.561149653335434,
+      "vehicleCount": 65,
+      "type": 1
+    },
+    {
+      "longitude": 114.30312955944864,
+      "latitude": 30.554267651976765,
+      "vehicleCount": 60,
+      "type": 1
+    },
+    {
+      "longitude": 114.30130000970279,
+      "latitude": 30.557290042794765,
+      "vehicleCount": 41,
+      "type": 1
+    },
+    {
+      "longitude": 114.3041252511318,
+      "latitude": 30.55461231382734,
+      "vehicleCount": 61,
+      "type": 1
+    },
+    {
+      "longitude": 114.29085998798901,
+      "latitude": 30.555853036768127,
+      "vehicleCount": 76,
+      "type": 1
+    },
+    {
+      "longitude": 114.2939381437393,
+      "latitude": 30.555105687800772,
+      "vehicleCount": 11,
+      "type": 2
+    },
+    {
+      "longitude": 114.29503735643372,
+      "latitude": 30.554271722809034,
+      "vehicleCount": 35,
+      "type": 0
+    },
+    {
+      "longitude": 114.29484178015792,
+      "latitude": 30.5587419467157,
+      "vehicleCount": 107,
+      "type": 2
+    },
+    {
+      "longitude": 114.29161933622096,
+      "latitude": 30.558974276373064,
+      "vehicleCount": 73,
+      "type": 1
+    },
+    {
+      "longitude": 114.29277765251513,
+      "latitude": 30.55790315386406,
+      "vehicleCount": 77,
+      "type": 2
+    },
+    {
+      "longitude": 114.29362165868953,
+      "latitude": 30.554992437734246,
+      "vehicleCount": 11,
+      "type": 2
+    },
+    {
+      "longitude": 114.28709344154218,
+      "latitude": 30.555807427436992,
+      "vehicleCount": 70,
+      "type": 2
+    },
+    {
+      "longitude": 114.28641758634075,
+      "latitude": 30.561574210008555,
+      "vehicleCount": 39,
+      "type": 1
+    },
+    {
+      "longitude": 114.29303806429436,
+      "latitude": 30.55177109068194,
+      "vehicleCount": 79,
+      "type": 0
+    },
+    {
+      "longitude": 114.29068313275978,
+      "latitude": 30.551781310218818,
+      "vehicleCount": 97,
+      "type": 0
+    },
+    {
+      "longitude": 114.28990850066572,
+      "latitude": 30.55853774952451,
+      "vehicleCount": 57,
+      "type": 0
+    },
+    {
+      "longitude": 114.28594634851147,
+      "latitude": 30.555627837655095,
+      "vehicleCount": 90,
+      "type": 1
+    },
+    {
+      "longitude": 114.29082956829937,
+      "latitude": 30.559250220032204,
+      "vehicleCount": 82,
+      "type": 2
+    },
+    {
+      "longitude": 114.2876084425448,
+      "latitude": 30.558140745586083,
+      "vehicleCount": 79,
+      "type": 2
+    },
+    {
+      "longitude": 114.28953578359452,
+      "latitude": 30.558371464053728,
+      "vehicleCount": 53,
+      "type": 1
+    },
+    {
+      "longitude": 114.28860581388876,
+      "latitude": 30.5542782259361,
+      "vehicleCount": 33,
+      "type": 1
+    },
+    {
+      "longitude": 114.28855959687426,
+      "latitude": 30.55651353533743,
+      "vehicleCount": 95,
+      "type": 0
+    },
+    {
+      "longitude": 114.29403108123623,
+      "latitude": 30.557166888700063,
+      "vehicleCount": 50,
+      "type": 0
+    },
+    {
+      "longitude": 114.29111843123191,
+      "latitude": 30.555028581343894,
+      "vehicleCount": 18,
+      "type": 0
+    }
+  ],
+  "store": [
+    {
+      "longitude": "114.295643",
+      "latitude": "30.561742",
+      "code": "d001",
+      "name": "d001专营店",
+      "vehicleCount": 35,
+      "aftersalesCount": 57,
+      "recentYearCustomerCount": 100
+    },
+    {
+      "longitude": "114.225643",
+      "latitude": "30.621742",
+      "code": "d002",
+      "name": "d002专营店",
+      "vehicleCount": 35,
+      "aftersalesCount": 57,
+      "recentYearCustomerCount": 100
+    }
+  ],
+  "overview": {
+    "overviewData": {
+      "vehicleCount": 35,
+      "aftersalesCount": 57,
+      "customerCount": 35,
+      "recentYearCustomerCount": 100
+    },
+    "nearbyStore": {
+      "storeCount": 24,
+      "vehicleCount": 200
+    },
+    "nearbyStoreList": [
+      {
+        "rank": 1,
+        "code": "d001",
+        "name": "d001专营店",
+        "customerCount": 24,
+        "recentYearCustomerCount": 50,
+        "aftersalesCount": 34,
+        "totalAftersalesCount": 300
+      },
+      {
+        "rank": 2,
+        "code": "d002",
+        "name": "d002专营店",
+        "customerCount": 30,
+        "recentYearCustomerCount": 60,
+        "aftersalesCount": 35,
+        "totalAftersalesCount": 330
+      }
+    ]
+  },
+  "resident": {
+    "list": [
+      {
+        "rank": 1,
+        "resident": "天河广场",
+        "customerCount": 30,
+        "recentYearCustomerCount": 69,
+        "percent": 30
+      },
+      {
+        "rank": 2,
+        "resident": "财富大厦",
+        "customerCount": 70,
+        "recentYearCustomerCount": 169,
+        "percent": 70
+      }
+    ],
+    "totalCustomerCount": 100
+  },
+  "distribution": {
+    "projectData": [
+      {
+        "type": 0,
+        "count": 40,
+        "percent": 40
+      },
+      {
+        "type": 1,
+        "count": 60,
+        "percent": 60
+      }
+    ],
+    "seriesData": [
+      {
+        "series": "A001",
+        "count": 40,
+        "percent": 40
+      },
+      {
+        "series": "B002",
+        "count": 60,
+        "percent": 60
+      }
+    ]
+  },
+  "linechart": {
+    "customerData": [
+      {
+        "store": 1415,
+        "toStore": 2144,
+        "date": "2024-04-21"
+      },
+      {
+        "store": 2541,
+        "toStore": 2054,
+        "date": "2024-04-22"
+      },
+      {
+        "store": 1547,
+        "toStore": 2500,
+        "date": "2024-04-23"
+      },
+      {
+        "store": 2436,
+        "toStore": 2600,
+        "date": "2024-04-24"
+      },
+      {
+        "store": 2842,
+        "toStore": 2222,
+        "date": "2024-04-25"
+      },
+      {
+        "store": 2641,
+        "toStore": 3200,
+        "date": "2024-04-26"
+      },
+      {
+        "store": 1860,
+        "toStore": 2430,
+        "date": "2024-04-27"
+      },
+      {
+        "store": 2354,
+        "toStore": 2895,
+        "date": "2024-04-28"
+      },
+      {
+        "store": 2649,
+        "toStore": 2987,
+        "date": "2024-04-29"
+      }
+    ],
+    "countData": [
+      {
+        "store": 2313,
+        "toStore": 2134,
+        "date": "2024-04-21"
+      },
+      {
+        "store": 2123,
+        "toStore": 2412,
+        "date": "2024-04-22"
+      },
+      {
+        "store": 2312,
+        "toStore": 3241,
+        "date": "2024-04-23"
+      },
+      {
+        "store": 2436,
+        "toStore": 2600,
+        "date": "2024-04-24"
+      },
+      {
+        "store": 2442,
+        "toStore": 2324,
+        "date": "2024-04-25"
+      },
+      {
+        "store": 2541,
+        "toStore": 2856,
+        "date": "2024-04-26"
+      },
+      {
+        "store": 2360,
+        "toStore": 2632,
+        "date": "2024-04-27"
+      },
+      {
+        "store": 2547,
+        "toStore": 2695,
+        "date": "2024-04-28"
+      },
+      {
+        "store": 2647,
+        "toStore": 2887,
+        "date": "2024-04-29"
+      }
+    ],
+    "incomeData": [
+      {
+        "store": 2000,
+        "toStore": 3000,
+        "date": "2024-04-21"
+      },
+      {
+        "store": 2500,
+        "toStore": 3500,
+        "date": "2024-04-22"
+      },
+      {
+        "store": 2000,
+        "toStore": 3000,
+        "date": "2024-04-23"
+      },
+      {
+        "store": 2500,
+        "toStore": 3500,
+        "date": "2024-04-24"
+      },
+      {
+        "store": 2000,
+        "toStore": 3000,
+        "date": "2024-04-25"
+      },
+      {
+        "store": 2500,
+        "toStore": 3500,
+        "date": "2024-04-26"
+      },
+      {
+        "store": 2000,
+        "toStore": 3000,
+        "date": "2024-04-27"
+      },
+      {
+        "store": 2500,
+        "toStore": 3500,
+        "date": "2024-04-28"
+      },
+      {
+        "store": 2000,
+        "toStore": 3000,
+        "date": "2024-04-29"
+      }
+    ]
+  },
+  "project": {
+    "projectData": {
+      "store": [
+        {
+          "type": 0,
+          "count": 40,
+          "percent": 40
+        },
+        {
+          "type": 1,
+          "count": 60,
+          "percent": 60
+        }
+      ],
+      "toStore": [
+        {
+          "type": 2,
+          "count": 30,
+          "percent": 30
+        },
+        {
+          "type": 3,
+          "count": 70,
+          "percent": 70
+        }
+      ]
+    },
+    "seriesData": {
+      "store": [
+        {
+          "series": "A001",
+          "count": 40,
+          "percent": 40
+        },
+        {
+          "series": "B002",
+          "count": 60,
+          "percent": 60
+        }
+      ],
+      "toStore": [
+        {
+          "series": "A001",
+          "count": 30,
+          "percent": 30
+        },
+        {
+          "series": "B002",
+          "count": 70,
+          "percent": 70
+        }
+      ]
+    }
+  },
+  "gridmap": [
+    {
+      "geohash": "wt3mbup",
+      "type": 0,
+      "count": 50
+    },
+    {
+      "geohash": "wt3mc57",
+      "type": 0,
+      "count": 50
+    },
+    {
+      "geohash": "wt3mc58",
+      "type": 1,
+      "count": 50
+    },
+    {
+      "geohash": "wz6nj2",
+      "type": 2,
+      "count": 20
+    },
+    {
+      "geohash": "wm6nj2",
+      "type": 0,
+      "count": 40
+    },
+    {
+      "geohash": "wt3mbux",
+      "type": 0,
+      "count": 90
+    },
+    {
+      "geohash": "wt3mch8",
+      "type": 1,
+      "count": 80
+    },
+    {
+      "geohash": "wt3mch9",
+      "type": 2,
+      "count": 50
+    }
+  ]
+}
